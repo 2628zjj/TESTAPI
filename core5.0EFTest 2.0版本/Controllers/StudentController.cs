@@ -32,7 +32,7 @@ namespace core5._0EFTest_2._0版本.Controllers
             {
                 _context.Add(s);
                 int rows = _context.SaveChanges();
-                return Ok(rows);
+                return Ok(rows); 
             }
             catch (Exception ex)
             {
