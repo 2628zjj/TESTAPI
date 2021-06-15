@@ -1,0 +1,12 @@
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\bin\Debug\net5.0\EFMethodInterface.deps.json
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\bin\Debug\net5.0\EFMethodInterface.dll
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\bin\Debug\net5.0\ref\EFMethodInterface.dll
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\bin\Debug\net5.0\EFMethodInterface.pdb
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.csprojAssemblyReference.cache
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.AssemblyInfoInputs.cache
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.AssemblyInfo.cs
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.csproj.CoreCompileInputs.cache
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.dll
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\ref\EFMethodInterface.dll
+E:\work\ASP.NET\core5.0EFTest 2.0版本\EFMethodInterface\obj\Debug\net5.0\EFMethodInterface.pdb
